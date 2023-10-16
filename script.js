@@ -24,7 +24,7 @@ const add = () => {
     var time = Time();
     console.log(time)
     if (todo.length == "") {
-        alert("PLEASE NETER SOME THING TO DO........")
+        alert("PLEASE ENTER SOME THING TO DO........")
     } else {
         li.className += "li"
         div1.className += "title"
