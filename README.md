@@ -12,4 +12,4 @@
     <li>𝚜𝚎𝚎 𝚊𝚕𝚜𝚘 𝚊𝚍𝚍𝚒𝚗𝚐 𝚝𝚒𝚖𝚎</li><hr>
 </ul>
 
-<h3>ʜᴇʀᴇ ɪs ᴏᴜᴛ ᴘᴜᴛ:<a href="https://sarrthak008.github.io/Todo-List">𝐓𝐎𝐃𝐎 𝐀𝐏𝐏</a></h3>
+<h3>ʜᴇʀᴇ ɪs ᴏᴜᴛᴘᴜᴛ:<a href="https://sarrthak008.github.io/Todo-List">𝐓𝐎𝐃𝐎 𝐀𝐏𝐏</a></h3>
