@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0px;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(rgb(0, 195, 255), rgba(0, 195, 255, 0.39), rgba(0, 255, 255, 0.13), rgba(0, 0, 255, 0));
+}
+
+#upper {
+    height: 25%;
+    width: 90%;
+    margin: 2%;
+    background-color: rgba(255, 255, 255, 0.493);
+    border: 1px solid white;
+    border-radius: 5px;
+
+
+}
+
+input {
+    height: 2rem;
+    width: 20rem;
+    margin: 2% auto;
+}
+
+#Tbtn {
+    height: 2.5rem;
+    border-radius: 5px;
+    width: 10rem;
+    background-color: rgb(62, 91, 218);
+    margin-top: 12px;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 3px;
+}
+
+#lower {
+    height: 70%;
+    width: 90%;
+    margin: 2%;
+    background-color: rgba(255, 255, 255, 0.493);
+    border: 1px solid white;
+    border-radius: 5px;
+    overflow: scroll;
+    overflow-x: scroll;
+
+}
+
+ul {
+    list-style: none;
+    width: 90%;
+    height: 25rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#lower li {
+    margin: 1%;
+    margin-left: 7%;
+    height: 50%;
+    width: 40%;
+    padding: 10px;
+    background-color: rgba(0, 132, 255, 0.336);
+}
+
+.delbtn,
+.cbtn {
+
+    height: 20%;
+    border-radius: 5px;
+    width: 70%;
+    background-color: rgb(62, 91, 218);
+    margin-top: 5px;
+    font-size: 1rem;
+    color: white;
+    margin-bottom: 1px;
+    content: delete;
+}
+
+li .title {
+    height: 12%;
+    background-color: rgba(0, 0, 255, 0.137);
+    width: auto;
+    border-bottom: 1px solid black;
+    overflow-y: scroll;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+li .desc {
+    height: 40%;
+    overflow-y: scroll;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+.time {
+    color: rgba(32, 31, 31, 0.308);
+    font-size: 1px;
+
+}
